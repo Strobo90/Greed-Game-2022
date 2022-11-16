@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oi6W7bdcb+utU6GGiclTH9m+OiAeGIgpSZ7G1MayBThmRB5H+dKeZpAKfRUuI0pPX0TbEqkafcG6AG7cra0bzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strob\\OneDrive\\Desktop\\Game\\Greed-Game-2022\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strob\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\strob\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
