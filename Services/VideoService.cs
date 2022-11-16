@@ -50,7 +50,7 @@ namespace cse210_04.Game.Services
         public void ClearBuffer()
         {
             Raylib.BeginDrawing();
-            Raylib.ClearBackground(Raylib_cs.Color.BLACK);
+            Raylib.ClearBackground(Raylib_cs.Color.GRAY);
             if (_debug)
             {
                 DrawGrid();
